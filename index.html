@@ -37,16 +37,6 @@
   <script>
     var serviceWorkerVersion = '1146862294';
     var scriptLoaded = false;
-    function loadMainDartJs() {
-      if (scriptLoaded) {
-        return;
-      }
-      scriptLoaded = true;
-      var scriptTag = document.createElement('script');
-      scriptTag.src = 'main.dart.js';
-      scriptTag.type = 'application/javascript';
-      document.body.append(scriptTag);
-    }
 
     if ('serviceWorker' in navigator) {
       // Service workers are supported. Use them.
@@ -93,10 +83,9 @@
           }
         }, 4000);
       });
-    } else {
-      // Service workers not supported. Just drop the <script> tag.
-      loadMainDartJs();
     }
   </script>
+  
+  <script src="main.dart.js" type="application/javascript"></script>
 </body>
 </html>
