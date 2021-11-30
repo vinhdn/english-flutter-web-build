@@ -1,0 +1,664 @@
+{
+  "course":{
+    "slug":"comprehensive_english"
+  ,
+    "file": "https://course3.alexdsing.com/FileNghe.zip"
+  },
+  "lectureGroup":[
+    {
+      "id":0,
+      "title":"Giới thiệu"
+    },
+    {
+      "id":1,
+      "title":"Unit 1: Làm quen, hỏi thông tin"
+    },
+    {
+      "id":2,
+      "title":"Unit 2: Đồ ăn"
+    },
+    {
+      "id":3,
+      "title":"Unit 3: Shopping"
+    },
+    {
+      "id":4,
+      "title":"Unit 4: So sánh"
+    },
+    {
+      "id":5,
+      "title":"Unit 5: Du lịch"
+    },
+    {
+      "id":6,
+      "title":"Unit 6: Công việc, nghề nghiệp"
+    },
+    {
+      "id":7,
+      "title":"Unit 7: Cách luyên nghe. Thì hiện tại hoàn thành"
+    },
+    {
+      "id":8,
+      "title":"Unit 8: Chỉ đường"
+    },
+    {
+      "id":9,
+      "title":"Unit 9: Shops, Restaurants"
+    },
+    {
+      "id":10,
+      "title":"Unit 10: Hoạt động"
+    },
+    {
+      "id":11,
+      "title":"Unit 11: Địa danh"
+    },
+    {
+      "id":12,
+      "title":"Unit 12: Giáo viên bản xứ"
+    }
+  ],
+  "lecture":{
+    "0":[
+      {
+        "lectureGroup":0,
+        "index":1,
+        "title":"Giới Thiệu Về Khóa Học Tiếng Anh Toàn Diện",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/1.1/playlist.m3u8?v=2",
+        "time": "02:05",
+        "free": true
+      },
+      {
+        "lectureGroup":1,
+        "index":2,
+        "title":"Cấu Trúc Bài Học",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/1.2/playlist.m3u8?v=2",
+        "time": "01:55",
+        "free": true
+      }
+    ],
+    "1":[
+      {
+        "lectureGroup":1,
+        "index":11,
+        "title":"U1.1. Intro Cách Gọi Tên, Chào Hỏi Trong Tiếng Anh",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U1.1/playlist.m3u8?v=2",
+        "time": "03:47"
+      },
+      {
+        "lectureGroup":1,
+        "index":12,
+        "title":"U1.2. Giải Thích Cách Gọi Tên, Chào Hỏi Trong Tiếng Anh - Hướng Dẫn Nghe Hội Thoại Thực Tế",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U1.2/playlist.m3u8?v=2",
+        "time": "03:50"
+      },
+      {
+        "lectureGroup":1,
+        "index":13,
+        "title":"U1.3. Giải Thích Listening - Tình Huống Trong Khách Sạn",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U1.3/playlist.m3u8?v=2",
+        "time": "05:40"
+      },
+      {
+        "lectureGroup":1,
+        "index":14,
+        "title":"U1.4. Cấu Trúc Câu với Tobe và Verb thường - Thì Hiện Tại",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U1.4/playlist.m3u8?v=2",
+        "time": "10:04"
+      },
+      {
+        "lectureGroup":1,
+        "index":15,
+        "title":"U1.5. Listen Cách Chào Hỏi Lịch Sự, Đúng Tình Huống, Vai Vế",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U1.5/playlist.m3u8?v=2",
+        "time": "07:22"
+      },
+      {
+        "lectureGroup":1,
+        "index":16,
+        "title":"U1.6. Reading - Chủ Đề Thông Tin Người, Quê Quán, Quốc Tịch, Nghề Nghiệp.",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U1.6/playlist.m3u8?v=2",
+        "time": "02:17"
+      },
+      {
+        "lectureGroup":1,
+        "index":161,
+        "title":"U1.6.1 Đáp Án 1 - Reading - Chủ Đề Thông Tin Người, Quê Quán, Quốc Tịch, Nghề Nghiệp",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U1.6.1/playlist.m3u8?v=2",
+        "time": "02:51"
+      },
+      {
+        "lectureGroup":1,
+        "index":162,
+        "title":"U1.6.2 Đáp Án 2 - Reading - Chủ Đề Thông Tin Người, Quê Quán, Quốc Tịch, Nghề Nghiệp",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U1.6.2/playlist.m3u8?v=2",
+        "time": "01:40"
+      },
+
+      {
+        "lectureGroup":1,
+        "index":17,
+        "title":"U1.7. Speaking - Luyện Nói Chủ Đề Làm Quen, Hỏi Thông Tin",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U1.7/playlist.m3u8?v=2",
+        "time": "06:52"
+      }
+    ],
+    "2":[
+      {
+        "lectureGroup":2,
+        "index":21,
+        "title":"U2.1.1.Vocab - Từ Vựng Chủ Đề Đồ Ăn",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U2.1.1/playlist.m3u8?v=2",
+        "time": "02:33",
+        "free": true
+      },
+      {
+        "lectureGroup":2,
+        "index":22,
+        "title":"U2.1.2.Phát Âm - Từ Vựng Chủ Đề Đồ Ăn",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U2.1.2/playlist.m3u8?v=2",
+        "time": "04:52",
+        "free": true
+      },
+      {
+        "lectureGroup":2,
+        "index":23,
+        "title":"U2.1.3.Read 1 - Luyện Đọc Chủ Đề Đồ Ăn",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U2.1.3/playlist.m3u8?v=2",
+        "time": "04:48",
+        "free": true
+      },
+      {
+        "lectureGroup":2,
+        "index":24,
+        "title":"U2.1.4.Read 2 - Đáp Án Bài Đọc 1 + Đọc Chuyên Sâu Chủ Đề Đồ Ăn",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U2.1.4/playlist.m3u8?v=2",
+        "time": "03:52"
+      },
+      {
+        "lectureGroup":2,
+        "index":25,
+        "title":"U2.1.5.Read 3 - Đáp Án Bài Đọc Chuyên Sâu Chủ Đề Đồ Ăn",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U2.1.5/playlist.m3u8?v=2",
+        "time": "03:27"
+      },
+      {
+        "lectureGroup":2,
+        "index":26,
+        "title":"U2.1.6. Cấu Trúc Câu Kể Chuyện - Ngôi Thứ 3 Số Ít với Verb Thường - Food",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U2.1.6/playlist.m3u8?v=2",
+        "time": "03:58"
+      },
+      {
+        "lectureGroup":2,
+        "index":27,
+        "title":"U2.1.7. Listen - Luyện Nghe Chủ Đề Đồ Ăn - Tình Huống Đảo Hoang",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U2.1.7/playlist.m3u8?v=2",
+        "time": "08:11"
+      }
+    ],
+    "3":[
+      {
+        "lectureGroup":3,
+        "index":31,
+        "title":"U3.1.1. Giới Thiệu + Vocab Chủ Đề Shopping",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U3.1.1/playlist.m3u8?v=2",
+        "time": "05:28"
+      },
+      {
+        "lectureGroup":3,
+        "index":32,
+        "title":"U3.1.2. Luyện Vocab Chủ Đề Shoppingg",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U3.1.2/playlist.m3u8?v=2",
+        "time": "09:39"
+      },
+      {
+        "lectureGroup":3,
+        "index":33,
+        "title":"U3.1.3. Giải Thích Phần bài Ôn Tập Vocab Chủ Đề Shopping",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U3.1.3/playlist.m3u8?v=2",
+        "time": "03:44"
+      },
+      {
+        "lectureGroup":3,
+        "index":34,
+        "title":"U3.1.4. Speak - Luyện Nói Chủ Đề Shopping",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U3.1.4/playlist.m3u8?v=2",
+        "time": "03:17"
+      },
+      {
+        "lectureGroup":3,
+        "index":35,
+        "title":"U3.1.5. Vocab Chuẩn Bị Cho Bài Nghe - Chủ Đề Market, Shopping",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U3.1.5/playlist.m3u8?v=2",
+        "time": "01:26"
+      },
+      {
+        "lectureGroup":3,
+        "index":36,
+        "title":"U3.1.6. Listen Tổng Quan Chủ Đề Market, shopping",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U3.1.6/playlist.m3u8?v=2",
+        "time": "08:48"
+      },
+      {
+        "lectureGroup":3,
+        "index":37,
+        "title":"U3.1.7. Listen Chi Tiết Thông Tin Trong Câu, Chủ Đề Market Shopping",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U3.1.7/playlist.m3u8?v=2",
+        "time": "05:45"
+      },
+      {
+        "lectureGroup":3,
+        "index":38,
+        "title":"U3.1.8. Speak. Các Loại Cấu Trúc Câu Dùng Để Miêu Tả Cảnh Vật",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U3.1.8/playlist.m3u8?v=2",
+        "time": "08:16"
+      }
+    ],
+    "4":[
+      {
+        "lectureGroup":4,
+        "index":41,
+        "title":"U4.1.1. Ngữ Pháp So Sánh Hơn, So Sánh Nhẩt",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U4.1.1/playlist.m3u8?v=2",
+        "time": "02:52"
+      },
+      {
+        "lectureGroup":4,
+        "index":42,
+        "title":"U4.1.2. Lý Thuyết + Thực Hành Ngữ Pháp So Sánh",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U4.1.2/playlist.m3u8?v=2",
+        "time": "06:16"
+      },
+      {
+        "lectureGroup":4,
+        "index":43,
+        "title":"U4.1.3. Đáp Án Bài Ngữ Pháp Thực Hành",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U4.1.3/playlist.m3u8?v=2",
+        "time": "03:56"
+      },
+      {
+        "lectureGroup":4,
+        "index":44,
+        "title":"U4.1.4. Speak - Luyện Nói Chủ Điểm Ngữ Pháp So Sánh Hơn, So Sánh Nhất",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U4.1.4/playlist.m3u8?v=2",
+        "time": "04:35"
+      },
+      {
+        "lectureGroup":4,
+        "index":45,
+        "title":"U4.1.5.Pre-Listen - Hiểu Tổng Quan Nội Dung Bài Nghe về Mô Tả Cảnh",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U4.1.5/playlist.m3u8?v=2",
+        "time": "02:06"
+      },
+      {
+        "lectureGroup":4,
+        "index":46,
+        "title":"U4.1.6. Giải Thích Bài Listen + Cấu Trúc Câu Trong bài",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U4.1.6/playlist.m3u8?v=2",
+        "time": "08:08"
+      }
+
+    ],
+    "5":[
+      {
+        "lectureGroup":5,
+        "index":51,
+        "title":"U5.1.1. Vocab Chuẩn Bị Cho Topic Du Lịch",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U5.1.1/playlist.m3u8?v=2",
+        "time": "03:25"
+      },
+      {
+        "lectureGroup":5,
+        "index":52,
+        "title":"U5.1.2. Listen - Giải Thích Từ Vựng + Bài nghe Chủ Đề Du Lịch.",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U5.1.2/playlist.m3u8?v=2",
+        "time": "09:16"
+      },
+      {
+        "lectureGroup":5,
+        "index":53,
+        "title":"U5.1.3. Giải Thích Bài Nghe Tổng Quan",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U5.1.3/playlist.m3u8?v=2",
+        "time": "04:22"
+      },
+
+      {
+        "lectureGroup":5,
+        "index":54,
+        "title":"U5.1.4. Giải Thích Bài Nghe Thông Tin Chi Tiết Chủ Đề Du Lịch",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U5.1.4/playlist.m3u8?v=2",
+        "time": "04:17"
+      },
+      {
+        "lectureGroup":5,
+        "index":55,
+        "title":"U5.1.5. Speak - Cấu Trúc Câu Hỏi Đáp Quá Khứ Đơn",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U5.1.5/playlist.m3u8?v=2",
+        "time": "07:38"
+      }
+
+    ],
+    "6":[
+      {
+        "lectureGroup":6,
+        "index":61,
+        "title":"U6.1. Listen - Vocab, Nghe Tổng Quan Chủ Đề Công Việc, Nghề Nghiệp",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U6.1/playlist.m3u8?v=2",
+        "time": "09:06"
+      },
+
+      {
+        "lectureGroup":6,
+        "index":62,
+        "title":"U6.2. Pre-Listen - Chuẩn Bị Vocab, Tình Huống Cho Phần Nghe Chi Tiết",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U6.2/playlist.m3u8?v=2",
+        "time": "03:44"
+      },
+      {
+        "lectureGroup":6,
+        "index":63,
+        "title":"U6.3. Giải Thích Bài Nghe Chi Tiết Chủ Đề Công Việc",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U6.3/playlist.m3u8?v=2",
+        "time": "03:54"
+      },
+      {
+        "lectureGroup":6,
+        "index":64,
+        "title":"U6.4. Speak - Luyện Nói, Hỏi Đáp Chủ Đề Nghề Nghiệp, Công Việc",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U6.4/playlist.m3u8?v=2",
+        "time": "5:43"
+      },
+      {
+        "lectureGroup":6,
+        "index":65,
+        "title":"U6.5. Vocab - Chuẩn Bị Từ Vựng Cho Phần Nghe, Chủ Đề Goals - Mục Tiêu",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U6.5/playlist.m3u8?v=2",
+        "time": "03:49"
+      },
+      {
+        "lectureGroup":6,
+        "index":66,
+        "title":"U6.6. Listen - Luyện nghe Nắm Thông Tin, Bắt Vocab tổng Quát",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U6.6/playlist.m3u8?v=2",
+        "time": "03:38"
+      },
+      {
+        "lectureGroup":6,
+        "index":67,
+        "title":"U6.7. Listen - Giải Thích Cách Nghe Từ Khóa + Cách Nghe Thông Tin Chi Tiết Chủ Đề Goals",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U6.7/playlist.m3u8?v=2",
+        "time": "07:53"
+      },
+      {
+        "lectureGroup":6,
+        "index":68,
+        "title":"U6.8. Speak - Giải Thích Bài nghe Chi Tiết + Cấu Trúc Câu, Từ Luyện Nói Về Mục Tiêu Bản Thân",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U6.8/playlist.m3u8?v=2",
+        "time": "04:59"
+      }
+
+    ],
+    "7":[
+      {
+        "lectureGroup":7,
+        "index":71,
+        "title":"U7.1. Pre-Listen - Chuẩn Bị Thông Tin, Ngữ Cảnh Bài Nghe",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U7.1/playlist.m3u8?v=2",
+        "time": "04:48"
+      },
+      {
+        "lectureGroup":7,
+        "index":72,
+        "title":"U7.2. Listen - Nghe Hiểu Nội Dung Các Câu Hỏi + Bắt Từ Khóa",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U7.2/playlist.m3u8?v=2",
+        "time": "06:01"
+      },
+      {
+        "lectureGroup":7,
+        "index":73,
+        "title":"U7.3. Grammar - Ngữ Pháp Hiện Tại Hoàn Thành",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U7.3/playlist.m3u8?v=2",
+        "time": "05:18"
+      },
+
+      {
+        "lectureGroup":7,
+        "index":74,
+        "title":"U7.4. Speaking - Ngữ Pháp Ứng Dụng vào Nói, Chủ Đề Trải Nghiệm",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U7.4/playlist.m3u8?v=2",
+        "time": "07:42"
+      }
+
+    ],
+    "8":[
+      {
+        "lectureGroup":8,
+        "index":81,
+        "title":"U8.1. Vocab - Từ Vựng Chủ Đề Chỉ Đường",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U8.1/playlist.m3u8?v=2",
+        "time": "0:41"
+      },
+      {
+        "lectureGroup":8,
+        "index":82,
+        "title":"U8.2. Vocab - Ôn Tập Từ Vựng, Bài Thực Hành 1",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U8.2/playlist.m3u8?v=2",
+        "time": "2:34"
+      },
+      {
+        "lectureGroup":8,
+        "index":83,
+        "title":"U8.3. Practice - Cụm Từ Chuẩn Bị Cho bài Nghe chủ đề Chỉ Đường",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U8.3/playlist.m3u8?v=2",
+        "time": "3:35"
+      },
+      {
+        "lectureGroup":8,
+        "index":84,
+        "title":"U8.4. Listen - Giải Thích Bài nghe 1 Căn bản và Hướng Dẫn Cách nghe Bài Chi Tiết chủ đề Chỉ Đường",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U8.4/playlist.m3u8?v=2",
+        "time": "0:33"
+      },
+
+      {
+        "lectureGroup":8,
+        "index":85,
+        "title":"U8.5. Listen - Giải Thích Bài nghe Chi Tiết - Part 1",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U8.5/playlist.m3u8?v=2",
+        "time": "2:53"
+      },
+
+      {
+        "lectureGroup":8,
+        "index":86,
+        "title":"U8.6. Giải Thích Từ Vựng, Cấu Trúc Lấy Được từ Bài Nghe Chi Tiết",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U8.6/playlist.m3u8?v=2",
+        "time": "5:19"
+      }
+
+    ],
+    "9":[
+      {
+        "lectureGroup":9,
+        "index":91,
+        "title":"U9.1. Vocab - Từ vựng Chủ Đề Shops, Restaurants",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U9.1/playlist.m3u8?v=2",
+        "time": "0:56"
+      },
+
+      {
+        "lectureGroup":9,
+        "index":92,
+        "title":"U9.2. Vocab - Luyện Phát Âm, Hiểu Nghĩa, Luyện Từ Vựng Chủ Đề Shop",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U9.2/playlist.m3u8?v=2",
+        "time": "1:41"
+      },
+
+      {
+        "lectureGroup":9,
+        "index":93,
+        "title":"U9.3. Listen - Ngữ Pháp + Luyện Nghe Tên Các Shops",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U9.3/playlist.m3u8?v=2",
+        "time": "2:37"
+      },
+      {
+        "lectureGroup":9,
+        "index":94,
+        "title":"U9.4. Speak - Cấu Trúc Câu, Luyện Nghe, Nối Âm",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U9.4/playlist.m3u8?v=2",
+        "time": "0:47"
+      },
+      {
+        "lectureGroup":9,
+        "index":95,
+        "title":"U9.5. Speak 2 - Luyện Nói Tương Tác, Đặt Câu Hỏi Chủ Đề Shop",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U9.5/playlist.m3u8?v=2",
+        "time": "1:43"
+      }
+
+    ],
+    "10":[
+      {
+        "lectureGroup":10,
+        "index":101,
+        "title":"U10.1. Vocab Chủ Để Hoạt Động",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U10.1/playlist.m3u8?v=2",
+        "time": "0:57"
+      },
+      {
+        "lectureGroup":10,
+        "index":102,
+        "title":"U10.2. Giải Thích Vocab + Nghe Tổng Quan Chủ Đề Hoạt Động",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U10.2/playlist.m3u8?v=2",
+        "time": "3:11"
+      },
+      {
+        "lectureGroup":10,
+        "index":103,
+        "title":"U10.3. Speak - Nghe Chi Tiết + Chủ Đề Luyện Nói Thực Hành",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U10.3/playlist.m3u8?v=2",
+        "time": "3:38"
+      },
+      {
+        "lectureGroup":10,
+        "index":104,
+        "title":"U10.4. Read - Đọc hiểu Tổng Quan Bài Hoạt Động Hàng Ngày",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U10.4/playlist.m3u8?v=2",
+        "time": "0:32"
+      },
+
+      {
+        "lectureGroup":10,
+        "index":105,
+        "title":"U10.5. Giải Thích Bài Reading + Luyện Cấu Trúc Câu",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U10.5/playlist.m3u8?v=2",
+        "time": "3:37"
+      },
+
+      {
+        "lectureGroup":10,
+        "index":106,
+        "title":"U10.6. Speak - Cấu Trúc Luyện Speaking + Nối Âm trong câu Hỏi",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U10.6/playlist.m3u8?v=2",
+        "time": "1:25"
+      }
+
+    ],
+    "11":[
+      {
+        "lectureGroup":11,
+        "index":111,
+        "title":"U11.1. Read - Đọc Hiểu Chủ Đề Địa Danh",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U11.1/playlist.m3u8?v=2",
+        "time": "1:00"
+      },
+
+      {
+        "lectureGroup":11,
+        "index":112,
+        "title":"U11.2. Listen - Nghe, xem Nội Dung Để Hiểu Tổng Quan Topic",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U11.2/playlist.m3u8?v=2",
+        "time": "3:27"
+      },
+
+      {
+        "lectureGroup":11,
+        "index":113,
+        "title":"U11.3. Vocab - Từ Vựng Về Địa Danh",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U11.3/playlist.m3u8?v=2",
+        "time": "3:12"
+      },
+      {
+        "lectureGroup":11,
+        "index":114,
+        "title":"U11.4. Listen - Nghe Chi Tiết Thông Tin Từ Vựng Trong Bài",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U11.4/playlist.m3u8?v=2",
+        "time": "1:04"
+      },
+
+      {
+        "lectureGroup":11,
+        "index":115,
+        "title":"U11.5. Speak - Trọng Âm Từ + Cấu Trúc Từ Trong Câu luyện Nói Chủ Đề Mô Tả Địa Danh",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U11.5/playlist.m3u8?v=2",
+        "time": "2:49"
+      },
+
+      {
+        "lectureGroup":11,
+        "index":116,
+        "title":"U11.6. Listen + Read - Nghe Chi Tiết Cấu Trúc Câu Sử Dụng Miêu Tả + Luyện Đọc Tổng Quan Chủ Đề Địa Danh Yêu Thích",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U11.6/playlist.m3u8?v=2",
+        "time": "2:18"
+      },
+      {
+        "lectureGroup":11,
+        "index":117,
+        "title":"U11.7. Read + Write - Giải bài Reading + Cấu Trúc câu và Thử Thách Luyện Viết Cấu Trúc Câu",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U11.7/playlist.m3u8?v=2",
+        "time": "0:35"
+      }
+
+    ],
+    "12":[
+      {
+        "lectureGroup":12,
+        "index":121,
+        "title":"U12.1. Giáo Viên Bản Xứ - Giải Thích Chủ Đề",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U12.1/playlist.m3u8?v=2",
+        "time": "0:39"
+      },
+      {
+        "lectureGroup":12,
+        "index":122,
+        "title":"U12.2. Giáo Viên Bản Xứ - Hiện Tượng Giảm Âm + Trọng Âm + Nối Âm Trong Khi Nói",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U12.2/playlist.m3u8?v=2",
+        "time": "4:15"
+      },
+
+      {
+        "lectureGroup":12,
+        "index":123,
+        "title":"U12.3. Listen - Giáo Viên Bản Xứ - Cấu Trúc Câu + Luyện Nghe Bắt Thông tin Chủ Đề Festival (Ngày lễ)",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U12.3/playlist.m3u8?v=2",
+        "time": "3:11"
+      },
+
+      {
+        "lectureGroup":12,
+        "index":124,
+        "title":"U12.4. Speak - Giáo Viên Bản Xứ - Bổ Đề Lấy Thông Tin Để Nói Bài Tet Festival (Ngày lễ)",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U12.4/playlist.m3u8?v=2",
+        "time": "1:23"
+      },
+      {
+        "lectureGroup":12,
+        "index":125,
+        "title":"U12.5. Speak - Giáo Viên Bản Ngữ - Cách Dùng Từ Nối Để So Sánh Giống và Khác về Văn Hóa both, but, however",
+        "url": "https://course3.alexdsing.com/comprehensive_english/video/U12.5/playlist.m3u8?v=2",
+        "time": "1:20"
+      }
+    ]
+  }
+}
